@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name pin_attiny)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+  (lib (name Desktop)(type KiCad)(uri /Users/alumno/Desktop)(options "")(descr ""))
+)
